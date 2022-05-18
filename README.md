@@ -3,6 +3,7 @@
 
 - 🔭 Atualmente sou bacharelando em Ciências da Computação pela UFRPE.
 - 🌱 Estudando Back-End no geral.
+- 📚 Entusiata de Segurança da Informção.
 - 📫 Email: sonaelneto@gmail.com
 
 <div align="center">
