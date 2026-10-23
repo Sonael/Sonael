@@ -24,7 +24,7 @@ Email     ──  sonaelneto@gmail.com
 
 ## `$ ls skills/`
 
-[![Skills](https://skillicons.dev/icons?i=py,java,ts,js,html,css,angular,nodejs,spring,flask,fastapi,postgres,mysql,mongodb,supabase,docker,git,linux&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,java,ts,js,html,css,react,angular,tailwind,nodejs,express,spring,flask,fastapi,postgres,mysql,mongodb,supabase,docker,git,linux&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -33,7 +33,7 @@ Email     ──  sonaelneto@gmail.com
 | Projeto | O que é | Stack |
 |---------|---------|-------|
 | [**RPG_Agent**](https://github.com/Sonael/RPG_Agent) · [demo](https://rpg-agent.onrender.com) | Mestre de RPG feito de IA-agente: memória de campanha persistente entre sessões, function calling e verificador determinístico de regras D&D 5e. Em produção. | Python · Flask · FastAPI · Supabase · LLMs |
-| [**Bora!**](https://bora-xgb8.onrender.com) | Jogo web autoral em produção. | React · PWA |
+| [**Bora!**](https://bora-xgb8.onrender.com) | Hub de 13 party games multiplayer em tempo real (Poker, Codinomes, Impostor...) para jogar com os amigos pelo celular. Em produção. | React · TypeScript · Node.js · Socket.IO · PWA |
 | [**BugBounty_Monitor**](https://github.com/Sonael/BugBounty_Monitor) | Scanner que orquestra ferramentas de segurança com filas assíncronas e reconhecimento contínuo. | Python · Flask · Celery · Redis · Docker |
 | [**RESTAPI_Spring_MongoDB**](https://github.com/Sonael/RESTAPI_Spring_MongoDB) | API REST em camadas (controller, service, repository) com documentação Swagger. | Java · Spring Boot · MongoDB |
 | [**rotaSegura**](https://github.com/dankhael/rotaSegura) | Contribuição em equipe (4 devs, metodologia ágil): aplicação web com testes de API. | TypeScript · Bruno |
